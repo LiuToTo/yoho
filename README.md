@@ -7,4 +7,4 @@
 | 4 | getgoodswithuserid |  post | {} | {} | - |
 | 5 | updategoods | post |  {gid （必传 ...} | {} | - |
 | 6 | undercarriagegoods | post |  {gid （必传 ...} | {} | - |
-| 7 | selectgoods | post |  {goods:{{gid, count},{gid, count}} （必传 ...} | {orderid} | - |
+| 7 | selectgoods | post |  { {bid: , goods:{{gid, count},{gid, count}}}, {bid: , goods:{{gid, count},{gid, count}}} ...} | {orderid} | - |
