@@ -6,3 +6,4 @@
 | 3 | searchUser | post | {} | {} | - |
 | 4 | getgoodswithuserid |  post | {} | {} | - |
 | 5 | updategoods | post |  {gid （必传 ...} | {} | - |
+| 6 | undercarriagegoods | post |  {gid （必传 ...} | {} | - |
