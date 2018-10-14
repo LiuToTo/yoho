@@ -8,3 +8,6 @@
 | 5 | updategoods | post |  {gid （必传 ...} | {} | - |
 | 6 | undercarriagegoods | post |  {gid （必传 ...} | {} | - |
 | 7 | selectgoods | post |  { {bid: , goods:{{gid, count},{gid, count}}}, {bid: , goods:{{gid, count},{gid, count}}} ...} | { {bid, orderid} , {bid, orderid} } | - |
+| 8 | canacelgoods |  post | bid/userid | {} | - |
+| 9 | ensuregoods |  post | bid | {} | - |
+| 10 | 发货 |  post | bid | {} | - |
