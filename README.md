@@ -11,3 +11,6 @@
 | 8 | canacelgoods |  post | bid/userid | {} | - |
 | 9 | ensuregoods |  post | bid | {} | - |
 | 10 | 发货 |  post | bid/uid， gid | {} | - |
+| 11 | 退货订单 |  post | bid/uid， gid | {} | - |
+| 12 | 取消退货订单 |  post | bid/uid， gid | {} | - |
+| 13 | 确认退货订单 |  post | bid/uid， gid | {} | - |
